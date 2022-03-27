@@ -4,10 +4,10 @@ git dapim nisaion
 ## beinoni
 ###### katan
 
-> ** Goldie ** * * Goldie * *  ~~Goldie~~ ***Goldie***
-> _ _ Ha _ _ 
+> ** Goldie ** * *Goldie* *  ~~Goldie~~ ***Goldie***
+>  
 
-`stam quote`
+`**stam quote**`
 
 ```
 git status
