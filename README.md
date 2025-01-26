@@ -1,4 +1,4 @@
-# bblinchevsky.github.io
+# bblin.github.io
 git dapim nisaion
 # gadol
 ## beinoni
